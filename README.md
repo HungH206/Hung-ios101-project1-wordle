@@ -25,14 +25,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide]](https://youtu.be/bV03NxRREB0).
 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Forking the repository because the starter repository cannot be transferred to a new repository.
 
 ## License
 
